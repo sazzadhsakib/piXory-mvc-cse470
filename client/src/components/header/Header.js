@@ -19,7 +19,7 @@ const Header = () => {
           </h1>
         </Link>
 
-        <Search />
+        <Search data-testid="searchbar" />
 
         <Menu />
       </nav>
